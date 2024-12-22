@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="left-down" width="75" height="75" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../../../Tiled Tilesets/base pokemon BW tileset.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJzt1jdWllEAANEfRLQVFW1BBVsl2YISWgOhVTC0BIXlOxXnfDu4xSumuhuYudlsNl8PaqEe1mI9qsc1N/zen9RSPa1n9byW60W9HD7xlVqtV/W63tRardfb4RN/V+9rozZrq7Zrpz4Mn/hu7dXH+lT7dVCHdTR84p/rS32tb3VcJ3VaZ8Mn/r1+1Hld1M/6Vb/rz/CJX9ZVXddN/a1/dVt3wycu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu0r/oLv2L7tK/6C79i+7Sv+gu/Yvu/wGMQQxK
+  </data>
+ </layer>
+</map>

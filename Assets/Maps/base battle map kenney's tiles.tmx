@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="left-down" width="75" height="75" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="../../../Tiled Tilesets/Kenney's Tileset.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="75" height="75">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKGb3r/kaugOCaumqqqqqqqqqqqqqqqqqqqqqqqqqqqqvh9FeIPX
+  </data>
+ </layer>
+</map>
